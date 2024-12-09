@@ -1,0 +1,11 @@
+Model Information:
+* title:	Nami
+* source:	https://sketchfab.com/3d-models/nami-aef2ae35a33746d4abade9b65af74b59
+* author:	weijie1988 (https://sketchfab.com/weijie1988)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Nami" (https://sketchfab.com/3d-models/nami-aef2ae35a33746d4abade9b65af74b59) by weijie1988 (https://sketchfab.com/weijie1988) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
