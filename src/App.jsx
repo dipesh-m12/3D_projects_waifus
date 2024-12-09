@@ -76,7 +76,7 @@ const StaticSpotLight = React.memo(() => {
 
   useEffect(() => {
     const helper = new SpotLightHelper(lightRef.current);
-    scene.add(helper);
+    // scene.add(helper);
     return () => {
       scene.remove(helper);
       helper.dispose();
