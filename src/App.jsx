@@ -52,7 +52,7 @@ const StaticPointLight = React.memo(() => {
 
   useEffect(() => {
     const helper = new PointLightHelper(lightRef.current, 0.5);
-    scene.add(helper);
+    // scene.add(helper);
     return () => {
       scene.remove(helper);
       helper.dispose();
@@ -149,7 +149,7 @@ function App() {
         <ShadowPlane />
         <StaticSpotLight />
         <StaticPointLight />
-        <SceneHelpers />
+        {/* <SceneHelpers /> */}
         <OrbitControls
           enableDamping
           enablePan={false}
